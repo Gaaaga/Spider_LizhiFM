@@ -1,4 +1,3 @@
-import requests
 import re
 import urllib.request
 import requests
